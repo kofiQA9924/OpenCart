@@ -1,0 +1,3 @@
+com\OpenCart\stepDefinitions\ReturningCustomerSteps.class
+com\OpenCart\stepDefinitions\ShopPageSteps.class
+com\OpenCart\stepDefinitions\RegisterAccountSteps.class

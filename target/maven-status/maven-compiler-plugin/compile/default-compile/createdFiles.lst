@@ -1,0 +1,6 @@
+com\OpenCart\Pages\ReturningCustomerPage.class
+com\OpenCart\Pages\ShopPage.class
+com\OpenCart\Runner\TestRunner.class
+com\OpenCart\Utilities\Capture.class
+com\OpenCart\Base\BaseClass.class
+com\OpenCart\Pages\RegisterAccountPage.class
